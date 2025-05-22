@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "driver_name": "Justin Allgaier",
+      "car_number": "7",
+      "wins": 2,
+      "playoff_points": 14
+    },
+    {
+      "driver_name": "Austin Hill",
+      "car_number": "21",
+      "wins": 3,
+      "playoff_points": 18
+    },
+    {
+      "driver_name": "Sam Mayer",
+      "car_number": "1",
+      "wins": 2,
+      "playoff_points": 11
+    },
+    {
+      "driver_name": "Jesse Love",
+      "car_number": "2",
+      "wins": 1,
+      "playoff_points": 9
+    },
+    {
+      "driver_name": "Brandon Jones",
+      "car_number": "9",
+      "wins": 0,
+      "playoff_points": 0
+    },
+    {
+      "driver_name": "Carson Kvapil",
+      "car_number": "8",
+      "wins": 0,
+      "playoff_points": 0
+    },
+    {
+      "driver_name": "Jeb Burton",
+      "car_number": "27",
+      "wins": 0,
+      "playoff_points": 0
+    },
+    {
+      "driver_name": "Ryan Sieg",
+      "car_number": "39",
+      "wins": 0,
+      "playoff_points": 2
+    },
+    {
+      "driver_name": "Sammy Smith",
+      "car_number": "18",
+      "wins": 0,
+      "playoff_points": 0
+    },
+    {
+      "driver_name": "Harrison Burton",
+      "car_number": "20",
+      "wins": 0,
+      "playoff_points": 0
+    },
+    {
+      "driver_name": "Sheldon Creed",
+      "car_number": "00",
+      "wins": 0,
+      "playoff_points": 1
+    },
+    {
+      "driver_name": "Connor Zilisch",
+      "car_number": "28",
+      "wins": 0,
+      "playoff_points": 0
+    }
+  ]
+}
